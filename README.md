@@ -25,6 +25,20 @@ An interactive stock market dashboard built using Python, Streamlit, Plotly, Alt
 
 ---
 
+## Screenshots
+
+### Dashboard Overview
+
+![Dashboard](screenshots/Stock%20dashboard.png)
+
+### Candlestick Chart
+
+![Candlestick Chart](screenshots/Candle%20Stick%20Chart.png)
+
+### Financial Analysis
+
+![Financial Analysis](screenshots/Quarterly-analysis.png)
+
 ## Project Structure
 
 ```text
